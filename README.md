@@ -4,6 +4,8 @@ Posee control de error de valores incorrectos enviados por sensor.
 Puede leer y mostrar datos en consola o
 Leer y enviar a repositorio web dweet.io para ser  mostrado en freeboard.io
 
+#Uso
+sudo nodejs appSensoresMultiples.js
 
 
 #Referencias
