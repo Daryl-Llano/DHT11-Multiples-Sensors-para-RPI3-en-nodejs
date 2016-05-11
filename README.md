@@ -8,4 +8,5 @@ Leer y enviar a repositorio web dweet.io para ser  mostrado en freeboard.io
 
 #Referencias
 1.- https://github.com/momenso/node-dht-sensor
+
 2.- www.moisesandre.com.br/sensor
