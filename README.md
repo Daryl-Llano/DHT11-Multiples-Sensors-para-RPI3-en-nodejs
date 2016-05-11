@@ -18,7 +18,7 @@ sudo nodejs appSensoresMultiples.js
 - Parámetro de control de lecturas que permite seleccionar la cantidad máxima de peticiones de información a los sensores.
 - Parámetro de control de lecturas Válidas por sensor antes de aceptar medición.
 - Variable LOG que permite mostrar los datos leídos por consola o permite  grabar o enviar la información a la nube.
-- Permite generar una acción (cambiar valor a una variable) de acuerdo al control de T° y H recibidos encada sensor
+- Permite generar una acción (cambiar valor a una variable) de acuerdo al control de T° y H recibidos en cada sensor
 
 Nota: Este código controla 4 sensores DHT11 y fue testeado en una RPI3.
 
