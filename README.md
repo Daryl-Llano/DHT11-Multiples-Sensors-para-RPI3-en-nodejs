@@ -6,8 +6,12 @@
 - Puede leer y mostrar datos en consola o
 - Puede leer y enviar a la nube (dweet.io) para ser mostrado en web (freeboard.io)
 
-#Uso
-sudo nodejs appSensoresMultiples.js
+#Instalación
+$ sudo npm install node-dht-sensor
+$ sudo npm install node-dweetio
+
+#Ejecución
+$ sudo nodejs appSensoresMultiples.js
 
 #Problemas Detectados
 - Sensores no entregan mediciones confiables el 100% de sus respuestas
