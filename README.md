@@ -26,6 +26,6 @@ El código controla hasta 4 sensores.
 ejemplo_Freeboard-appMultiplesSensores.png
 
 #Referencias
-1.- Para múltiples lecturas: https://github.com/momenso/node-dht-sensor
+1.- Para lectura de sensor DHT-11 (single o múltiples): https://github.com/momenso/node-dht-sensor
 
 2.- Para publicación en la nube: www.moisesandre.com.br/sensor
