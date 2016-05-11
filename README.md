@@ -1,7 +1,7 @@
 # DHT11-Lectura de Multiples Sensores en RPI3 
 (Beta 1)
 
-- Código NODEJS que permite leer múltiples sensores de temperatura y humedad DHT-11 en RPI3.
+- Código NODEJS que permite leer múltiples sensores de temperatura y humedad DHT11 o DHT22 en RPI3.
 - Posee control de error de valores incorrectos enviados por sensor.
 - Puede leer y mostrar datos en consola o
 - Puede leer y enviar a la nube (dweet.io) para ser mostrado en web (freeboard.io)
@@ -20,12 +20,12 @@ sudo nodejs appSensoresMultiples.js
 - Variable LOG que permite mostrar los datos leídos por consola o permite  grabar o enviar la información a la nube.
 - Permite generar una acción (cambiar valor a una variable) de acuerdo al control de T° y H recibidos encada sensor
 
-El código controla hasta 4 sensores.
+Nota: Este código controla 4 sensores DHT11 y fue testeado en una RPI3.
 
 #Ejemplo de Salida 
 ejemplo_Freeboard-appMultiplesSensores.png
 
 #Referencias
-1.- Para lectura de sensor DHT-11 (single o múltiples): https://github.com/momenso/node-dht-sensor
+1.- Para lectura de sensor DHT11 (single o múltiples): https://github.com/momenso/node-dht-sensor
 
 2.- Para publicación en la nube: www.moisesandre.com.br/sensor
