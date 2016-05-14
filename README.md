@@ -7,8 +7,8 @@
 - Puede leer y enviar a la nube (dweet.io) para ser mostrado en web (freeboard.io)
 
 #Instalación
-$ sudo npm install node-dht-sensor
-$ sudo npm install node-dweetio
+- $ sudo npm install node-dht-sensor
+- $ sudo npm install node-dweetio
 
 #Ejecución
 $ sudo nodejs appSensoresMultiples.js
