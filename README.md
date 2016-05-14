@@ -27,10 +27,15 @@ $ sudo nodejs appSensoresMultiples.js
 Nota: Este código controla 4 sensores DHT11 y fue testeado en una RPI3.
 
 #Ejemplo de Salida 
-DHT11-Multiples-Sensors-para-RPI3-en-nodejs/ejemplo_Freeboard-appMultiplesSensores.png
+https://github.com/Daryl-Llano/DHT11-Multiples-Sensors-para-RPI3-en-nodejs.git/ejemplo_Freeboard-appMultiplesSensores.png
 
 
 #Referencias
-1.- Para lectura de sensor DHT11 (single o múltiples): https://github.com/momenso/node-dht-sensor
+1.- Para lectura de sensor DHT11 (single o múltiples): 
+    https://github.com/momenso/node-dht-sensor
 
-2.- Para publicación en la nube: www.moisesandre.com.br/sensor
+2.- Para publicación en la nube: 
+    www.moisesandre.com.br/sensor
+
+3.- Identificación de sendsores y GPIO compatible con lectura en librería 
+    https://github.com/Daryl-Llano/
