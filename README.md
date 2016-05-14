@@ -38,4 +38,4 @@ https://github.com/Daryl-Llano/DHT11-Multiples-Sensors-para-RPI3-en-nodejs.git/e
     www.moisesandre.com.br/sensor
 
 3.- Identificación de sendsores y GPIO compatible con lectura en librería 
-    https://github.com/Daryl-Llano/
+    https://github.com/Daryl-Llano/RP2_foto_GPIO_Pinout_v2.png
